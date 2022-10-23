@@ -12,4 +12,5 @@ https://github.com/SergioSim
 https://github.com/topics/churn-prediction?l=python
 
 https://github.com/search?q=dropout+prediction
+
 and others...
