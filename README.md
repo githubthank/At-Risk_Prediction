@@ -14,3 +14,6 @@ https://github.com/topics/churn-prediction?l=python
 https://github.com/search?q=dropout+prediction
 
 and others...
+
+
+OULAD full dataset download: https://analyse.kmi.open.ac.uk/open_dataset
