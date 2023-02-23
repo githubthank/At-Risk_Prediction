@@ -1,9 +1,9 @@
 # At-Risk_Prediction
 At-Risk_Prediction
 
-#This code references the results of many previous studies, thanks again. The middle part of the code is not run down sequentially, but needs to be run selectively.
+#This code references many previous studies's Materials, thanks very much. The middle part of the code is not run down sequentially, but needs to be run selectively.We will continuously improve the legibility of the code.
 
-The IPYNB file is large and very long, so it is running on a high-performance computer with a GPU, and when opened on a regular computer, there may be delay, so you will have to wait a long time.
+The IPYNB file is large and very long, so it is better running on a high-performance computer, and when opened on a regular computer, there may be delay a long time.
 
 reference：
 
