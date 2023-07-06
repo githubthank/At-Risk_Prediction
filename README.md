@@ -9,6 +9,6 @@ OULAD full dataset download link: https://analyse.kmi.open.ac.uk/open_dataset
 
 
 #This code references many previous studies's Materials, thanks very much.
-Special thanks to ameyaghatpande（Ameya Ghatpande）
+Special thanks to Ameya Ghatpande.
 
 
